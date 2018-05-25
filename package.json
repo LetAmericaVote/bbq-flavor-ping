@@ -5,6 +5,6 @@
   "main": "index.js",
   "author": "Joe Kent",
   "license": "MIT",
-  "repo": "https://github.com/LetAmericaVote/bbq-flavor-ping",
+  "repository": "https://github.com/LetAmericaVote/bbq-flavor-ping",
   "dependencies": {}
 }
