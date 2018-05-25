@@ -1,0 +1,6 @@
+{
+  "name": "ping",
+  "path": "/core/ping",
+  "method": "GET",
+  "repo": "https://github.com/LetAmericaVote/bbq-flavor-ping"
+}
