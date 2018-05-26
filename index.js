@@ -1,7 +1,10 @@
-module.exports = async function (use, menu) {
-  return (context) => {
-    const { response } = context;
+module.exports = async function (use, menu, logger) {
+  return async (context) => {
+    logger.debug = 'hey';
 
+    const { response } = context;
     response.body = { ok: true };
+
+    return true;
   };
 };
