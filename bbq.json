@@ -1,5 +1,5 @@
 {
   "name": "ping",
   "path": "/core/ping",
-  "method": "GET",
+  "method": "GET"
 }
